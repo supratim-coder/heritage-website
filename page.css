@@ -1,0 +1,238 @@
+*{
+    font-family: 'Poppins' sans-serif;
+    padding: 0;
+    margin: 0;
+}
+section{
+    padding: 5rem 10%;
+}
+.header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    padding-top: 0;
+    padding-bottom: 0;
+    align-items: center;
+    background-color: #9610fb;
+    justify-content: space-between;
+}
+.header img{
+    width: 150px;
+    height: 100px;
+    float: left;
+    background: transparent;
+}
+.home-btn{
+    width: 100px;
+    padding: 8px 0; 
+    outline: none !important;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    background: #000;
+    color: #fff;
+    float: right;
+}
+.home-btn:hover{
+    background: #fff;
+    color: #000;
+}
+.sec{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/Victoria_Memorial.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec1{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/Belur_math.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec2{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/Howrah_bridge.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec3{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/Indian_Museum.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec4{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/jorasanko-thakur-bari.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec5{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/St.Pauls_Cathedral.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec6{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/Shaheed_Minar.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec7{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/writers_building.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec8{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/raj_bhavan.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec9{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/Marble_Palace.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.sec h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.sec1 h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.sec2 h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.sec3 h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.sec4 h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.sec5 h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.sec6 h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.sec7 h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.sec8 h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.sec9 h2{
+    padding-top: 500px;
+    
+    padding-bottom: 0;
+    font-size: 55px;
+    font-weight: 600;
+}
+.footer{
+    padding: 100px 20px;
+    background-color: #9610fb;
+    color: #fff;
+}
+.footer-logo{
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.footer h4{
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.footer p{
+    font-size: 12px;
+    text-align: justify;
+    padding-right: 35px;
+}
+.footer hr{
+    margin-top: 10px;
+    background: #efefef;
+}
+.footer .copyright{
+    text-align: center;
+}
