@@ -8,6 +8,10 @@ This website contains information about the top 10 heritage places in Kolkata. T
 
 This is the a overview of the website
 
+![127 0 0 1_5500_index html](https://github.com/user-attachments/assets/7343fbd3-2c5e-4c7c-b1c3-1a3eb2df7d91)
+
+
+![127 0 0 1_5500_heritage html](https://github.com/user-attachments/assets/497a9f63-4628-4de4-8469-959b0aa7dd08)
 
 
 
